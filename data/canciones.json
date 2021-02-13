@@ -1,0 +1,46 @@
+[
+    {   "id": 1,
+        "titulo": "quimera",
+        "artista": "Alba Reche",
+        "album": "quimera",
+        "fecha": "2021-01-04",
+        "tiempo": "3:08",
+        "cancion": "quimera"
+    },
+    {
+        "id": 2,
+        "titulo": "Fuentes de Ortíz(Live session)",
+        "artista": "Kenia OS",
+        "album": "Fuentes de Ortí...",
+        "fecha": "2021-01-04",
+        "tiempo": "2:59",
+        "cancion":"fuentes"
+    },
+    {
+        "id": 3,
+        "titulo": "Amorfina",
+        "artista": "Marlon",
+        "album": "Amorfina",
+        "fecha": "2021-01-04",
+        "tiempo": "2:59",
+        "cancion":"amorfina"
+    },
+    {
+        "id": 4,
+        "titulo": "Cigarrito y Café",
+        "artista": "Josue Alaniz, C...",
+        "album": "Cigarrito y Café",
+        "fecha": "2021-01-04",
+        "tiempo": "2:51",
+        "cancion":"cigarrito"
+    },
+    {
+        "id": 5,
+        "titulo": "La Canción",
+        "artista": "Sebastián Rome...",
+        "album": "La Canción",
+        "fecha": "2021-01-04",
+        "tiempo": "4:14",
+        "cancion":"cancion"
+    }
+]

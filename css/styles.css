@@ -1,0 +1,37 @@
+.black{
+    background-color: black;
+    
+}
+.black h1{
+    color: white;
+}
+.black h4, p{color: rgb(177, 177, 177);}
+#spo{color: white;}
+#botones .fa-heart{border: 2px solid rgb(177, 177, 177); border-radius: 100%; padding: 5px; margin: 10px; color: white;}
+.fa-ellipsis-h{border: 2px solid rgb(177, 177, 177); border-radius: 100%; padding: 5px; margin: 10px; color: white;}
+
+#junto{
+    display: flex;
+}
+
+#derecha{
+    color:  rgb(177, 177, 177);
+
+    text-align: right;
+}
+
+button{
+    background-color: transparent;
+    border: none;
+}
+
+button .fa-heart{
+    color: white;
+}
+
+ #transparente{
+    color: transparent;
+}
+
+tr:hover #transparente{color: rgb(49, 204, 49);}
+tr:hover{color: rgb(49, 204, 49);}
